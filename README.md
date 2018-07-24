@@ -11,9 +11,9 @@
 # Getting Started
 Include a .env file in the server directory with the following environment variables.
 
-PORT = 3030
-DATABASE = 'mongodb://localhost/<DATABASE_NAME>'
-SECRET = 'SecretKey'
+PORT = 3030 </br>
+DATABASE = 'mongodb://localhost/<DATABASE_NAME>'</br>
+SECRET = 'SecretKey'</br>
 
 # MongoDB configuration
 The application need a MongoDB database with the following collections:
