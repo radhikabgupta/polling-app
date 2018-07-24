@@ -3,4 +3,13 @@
 - Registered users can create and vote a poll. 
 - Registered users can log in and create their own polls. 
 - Users can observe their own polling activity.
-- Users can cast only one vote on every poll.
+- Users can cast only one vote on a apoll.
+
+# Built with
+- nodejs
+- express
+- mongodb
+- mongoose
+- bcrypt
+- jsonwebtoken
+- react
