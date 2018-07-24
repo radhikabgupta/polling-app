@@ -8,6 +8,16 @@
 # Built with the MERN stack
 ![Overview](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/mern_01.jpg)
 
+# Getting Started
+Include a .env file in the server directory with the following environment variables.
+
+PORT = 3030
+DATABASE = 'mongodb://localhost/<DATABASE_NAME>'
+SECRET = 'SecretKey'
+
+PORT = 4000
+DATABASE = 'mongodb://localhost/<DATABASE_NAME>'
+SECRET = 'ThisIsATemporarySecretKey'
 
 # MongoDB configuration
 The application need a MongoDB database with the following collections:
