@@ -21,6 +21,9 @@ The application need a MongoDB database with the following collections:
 - polls - To save users polls
 - users - To save signed users
 
+# Screenshots
+![PollsterApp](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/proj3_sp2.jpg)
+![PollsterApp](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/proj3_sp1.jpg)
 
 # Built with the following Frameworks / Libraries
 ![Technology](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/mern_tech.jpg)
