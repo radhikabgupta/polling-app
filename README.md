@@ -13,3 +13,9 @@
 - bcrypt
 - jsonwebtoken
 - react
+
+# MongoDB configuration
+The application need a MongoDB database with the following collections:
+
+- polls - To save users polls
+- users - To save signed users
