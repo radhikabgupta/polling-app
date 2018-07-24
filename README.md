@@ -1,4 +1,4 @@
-# Polling App 
+# Pollster App 
 - A place where users can visit to browse polls.
 - Registered users can create and vote a poll. 
 - Registered users can log in and create their own polls. 
